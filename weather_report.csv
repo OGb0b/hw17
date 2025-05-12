@@ -1,0 +1,6 @@
+city,temperature,humidity,wind_speed,description
+Moscow,6.3,71,0.28,облачно с прояснениями
+New York,21.93,36,4.02,пасмурно
+Tokyo,16.07,83,0.42,пасмурно
+London,18.73,68,0.89,небольшая облачность
+Berlin,13.28,46,3.41,ясно
